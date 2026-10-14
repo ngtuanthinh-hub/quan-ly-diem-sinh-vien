@@ -64,4 +64,4 @@ ax.set_ylim(0, 10)
 ax.grid(axis=“y”, alpha=0.3)
 st.pyplot(fig)
 
-st.caption(“Người tạo ứng dụng: Thinh48 | MSSV:058208007736”)
+st.caption(“Người tạo ứng dụng: Thinh48 | MSSV:("058208007736")
